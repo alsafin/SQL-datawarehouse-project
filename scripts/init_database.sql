@@ -40,3 +40,4 @@ GO
 
 CREATE SCHEMA gold;
 GO
+
